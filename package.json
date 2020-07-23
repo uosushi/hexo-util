@@ -44,7 +44,7 @@
   "description": "Utilities for Hexo.",
   "devDependencies": {
     "chai": "^3.5.0",
-    "eslint": "^2.12.0",
+    "eslint": "^4.18.2",
     "eslint-config-hexo": "^1.0.3",
     "html-tag-validator": "^1.5.0",
     "istanbul": "^0.4.3",
