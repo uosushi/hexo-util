@@ -38,7 +38,7 @@
     "cross-spawn": "^4.0.0",
     "highlight.js": "^9.4.0",
     "html-entities": "^1.2.0",
-    "striptags": "^2.1.1"
+    "striptags": "^3.2.0"
   },
   "deprecated": false,
   "description": "Utilities for Hexo.",
